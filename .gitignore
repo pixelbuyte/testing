@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+build/
+.data/
+*.tsbuildinfo
+next-env.d.ts
+.env
+.env*.local
+.DS_Store
+/test-results/
+
+# Next.js auto-generated agent instructions
+AGENTS.md
+CLAUDE.md
